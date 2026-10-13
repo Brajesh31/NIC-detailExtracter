@@ -5,4 +5,4 @@ Welcome to the NIC Recognition Python Scripts Repository!
 
 This repository contains Python scripts designed to recognize and process National Identity Card (NIC) numbers. The main script, `{Project NIC.py`, interacts with the `NIC` package, which includes modules such as `NICtype`, `oldNIC`, and `newNIC`. Users can input their NIC numbers to determine the card type and execute specific functionalities for old and new NICs. Additionally, the repository includes files like `NICtype.py`, `oldNIC.py`, and `newNIC.py`, ensuring a comprehensive solution for NIC-related operations. Explore the code and enhance your NIC recognition capabilities!
 
-Last updated: 2026-10-13 20:56 UTC
+Last updated: 2026-10-13 22:24 UTC
